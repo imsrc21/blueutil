@@ -21,5 +21,6 @@ Without options outputs current state
 
 Uses private API from IOBluetooth framework (i.e. IOBluetoothPreference*()).
 
-Originally written by Frederik Seiffert ego@frederikseiffert.de http://www.frederikseiffert.de/blueutil/
-Further development by Ivan Kuchin https://github.com/toy/blueutil
+Reference :
+- http://www.frederikseiffert.de/blueutil/
+- https://github.com/toy/blueutil
