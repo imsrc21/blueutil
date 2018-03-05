@@ -1,3 +1,7 @@
+#Steps :
+- Install brew (https://www.howtogeek.com/211541/homebrew-for-os-x-easily-installs-desktop-apps-and-terminal-utilities/)
+- Run this command ```brew install blueutil```
+
 get/set bluetooth power and discoverable state
 
 ```
